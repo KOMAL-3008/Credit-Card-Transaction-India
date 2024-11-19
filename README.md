@@ -56,3 +56,6 @@ Method: Create a PivotTable with the Gender field in the Rows area and summarize
 # Determine if There Are Significant Differences in Spending Between Different Cities:
 Method: Create a PivotTable to compare total and average spending by city, and consider statistical analyses for deeper insights.
 
+![Credit Card Dashboard Image](https://github.com/user-attachments/assets/715c6122-5444-4114-b8ba-3a7eecf7831a)
+
+
